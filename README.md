@@ -1,8 +1,7 @@
 # White Blood Cell Detection Dataset
 
 ## Description
-This repository contains a dataset for white blood cell detection. The dataset has been labeled with bounding boxes for different types of white blood cells.
-
+This dataset is derived from the ‘PBC_dataset_normal_DIB’ dataset and it has been labeled (bounding boxes) for the detection and classification of white blood cells.
 ## Dataset Origin
 The original dataset is derived from [Mendeley Data].
 
@@ -16,8 +15,6 @@ The dataset includes the following types of white blood cells:
 - Monocyte (5)
 - Neutrophil (6)
 
-## Bounding Boxes
-A part of the dataset has been labeled with bounding boxes for white blood cell detection by types.
 
 ## Dataset Split
 The dataset has been split into train, test, and validation sets.
