@@ -2,8 +2,9 @@
 
 ## Description
 This dataset is derived from the ‘PBC_dataset_normal_DIB’ dataset and it has been labeled (bounding boxes) for the detection and classification of white blood cells.
+
 ## Dataset Origin
-The original dataset is derived from [Mendeley Data].
+The original dataset is derived from Mendeley Data."https://data.mendeley.com/datasets/snkd93bnjr/1"
 
 ## White Blood Cell Types
 The dataset includes the following types of white blood cells:
@@ -14,7 +15,6 @@ The dataset includes the following types of white blood cells:
 - Lymphocyte (4)
 - Monocyte (5)
 - Neutrophil (6)
-
 
 ## Dataset Split
 The dataset has been split into train, test, and validation sets.
