@@ -8,13 +8,13 @@ The original dataset is derived from [Mendeley Data].
 
 ## White Blood Cell Types
 The dataset includes the following types of white blood cells:
-- Basophil (ba)
-- Eosinophil (eo)
-- Erythroblast (er)
-- Immunoglobulin (ig)
-- Lymphocyte (ly)
-- Monocyte (mo)
-- Neutrophil (ne)
+- Basophil (0)
+- Eosinophil (1)
+- Erythroblast (2)
+- Immunoglobulin/Ig (3)
+- Lymphocyte (4)
+- Monocyte (5)
+- Neutrophil (6)
 
 ## Bounding Boxes
 A part of the dataset has been labeled with bounding boxes for white blood cell detection by types.
